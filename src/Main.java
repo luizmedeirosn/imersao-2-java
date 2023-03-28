@@ -1,5 +1,4 @@
 import java.util.List;
-
 import Aula1.ConsumirImdbAPIFilmes;
 import Aula1.Filme;
 import Aula1.PrintAulaPersonalizada;
