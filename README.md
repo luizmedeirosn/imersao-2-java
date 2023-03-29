@@ -13,6 +13,7 @@ Tópicos abordados:
 - **Estruturas de controle;**
 - **Estruturas de dados;**
 - **Expressões regulares;**
+- **Orientação a Objetos;**
 - **Java Web com a biblioteca Java Net**;
 - **Protocolo HTTP**;
 - **Persolanização do terminal utilizando Java.**
