@@ -14,7 +14,7 @@ Tópicos abordados:
 - **Estruturas de dados;**
 - **Expressões regulares;**
 - **Java Web com a biblioteca Java Net**;
-- **Protocoloco HTTP**;
+- **Protocolo HTTP**;
 - **Persolanização do terminal utilizando Java.**
 
 #### **Resultado final da primeira aula após o tratamento dos dados:**
