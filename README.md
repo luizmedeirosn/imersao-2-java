@@ -27,7 +27,7 @@ Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resp
 ## Aula 2 ✔️
 ### Gerando figurinhas para Whatsapp com Java
 
-Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recurso da bilioteca Java AWT.
+Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recursos da bilioteca Java AWT.
 
 #### **Resultado final da segunda aula após a edição das stickers:**
 ![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-da-aula-2.png)
