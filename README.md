@@ -9,10 +9,10 @@ Repositório para estudo construído com base no treinamento intensivo em desenv
 - **Tratamento de exceções**;
 - **Expressões regulares;**
 - **Orientação a Objetos;**
-- **Java Web com a biblioteca Java Net**;
-- **Protocolo HTTP**;
-- **Persolanização do terminal utilizando Java**
-- **Edição de imagens utilizando Java AWT e Swing**
+- **Java Web com a biblioteca Java Net;**;
+- **Protocolo HTTP;**;
+- **Persolanização do terminal utilizando Java;**
+- **Edição de imagens utilizando Java AWT e Swing.**
 
 ## Aula 1 ✔️
 ### Consumindo uma API de filmes com Java
