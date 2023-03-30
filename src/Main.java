@@ -1,17 +1,36 @@
+import java.net.URL;
 import java.util.List;
+
 import Aula1.ConsumirImdbAPIFilmes;
 import Aula1.Filme;
-import Aula1.PrintAulaPersonalizada;
+import Aula2.FabricaDeStickers;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        
-        System.out.println();
+        new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().destroy();
+
+        FabricaDeStickers gerador = new FabricaDeStickers();
+        List<Filme> filmes = ConsumirImdbAPIFilmes.instanciarLista();
+
+        for (Filme filme : filmes) {
+            gerador.criarSticker( new URL( filme.getPoster()).openStream(), filme);
+            System.out.println(filme.getTitulo());
+            System.out.println(filme.getNota());
+            System.out.println(filme.getPoster());
+        }
+    }
+}
+
+
+
+
+
+
+/* 
         PrintAulaPersonalizada.aula1();
 
         List<Filme> filmes = ConsumirImdbAPIFilmes.instanciarLista();
         for (Filme f : filmes) {
             System.out.println(f.toString());  
         }
-    }
-}
+ */
