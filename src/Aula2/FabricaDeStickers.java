@@ -36,13 +36,13 @@ public class FabricaDeStickers {
         BufferedImage minhaReacao = null;
         try {
             if (Double.parseDouble(filme.getNota()) > 8){
-                msg = "MUITO MASSA!";
+                msg = "MUITO MASSA";
                 minhaReacao = ImageIO.read( new FileInputStream("./.reacoes/muito-bom.png") );
              } else if (Double.parseDouble(filme.getNota()) > 7) {
-                 msg = "DA PRA DALE!";
+                 msg = "DA PRA DALE";
                  minhaReacao = ImageIO.read( new FileInputStream("./.reacoes/bom.png") );
              } else {
-                 msg = "ASSISTIVEL!";
+                 msg = "ASSISTIVEL";
                  minhaReacao = ImageIO.read( new FileInputStream("./.reacoes/assistivel.png") );
              }
         } catch (IOException e) {

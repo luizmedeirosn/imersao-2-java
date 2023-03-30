@@ -22,7 +22,7 @@ Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resp
 
 
 #### **Resultado final da primeira aula após o tratamento dos dados:**
-![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-da-aula-1.jpeg?token=GHSAT0AAAAAACAO7AOUZ4CWO5WUUYVCU5L2ZBCUEUQ)
+![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula-1.png)
 
 ## Aula 2 ✔️
 ### Gerando figurinhas para Whatsapp com Java
@@ -30,7 +30,7 @@ Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resp
 Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recursos da bilioteca Java AWT.
 
 #### **Resultado final da segunda aula após a edição das stickers:**
-![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-da-aula-2.png)
+![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula-2.png)
 
 # Tecnologias Utilizadas:
  [![logo-do-java.png](https://i.postimg.cc/gkzrfS4S/logo-do-java.png)]( https://www.oracle.com/java/)  
