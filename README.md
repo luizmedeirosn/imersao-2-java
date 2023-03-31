@@ -40,7 +40,7 @@ Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável 
 Durante este estágio do projeto, foram empregadas práticas de refatoração de código e orientação a objetos, com a utilização injeção de dependências e aprimoramento de coesão das classes. Também foram criadas camadas de serviço com clientes HTTP extratores de dados e geradores, bem como pacotes de parser e entidades.
 
 #### **Conclusão da terceira aula após a edição de imagens da API da NASA:**
-![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-da-aula3.png)
+![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula3.png)
 
 
 # Tecnologias Utilizadas:
