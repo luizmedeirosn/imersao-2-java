@@ -10,12 +10,12 @@ public class PrintAulaPersonalizada {
     final static String violeta = "\u001b[35;1m";
 
     public static void aula1() {
-        System.out.println(azul + negrito + "     AAA         UU         UU    LL                AAA             11111");
-        System.out.println(azul + negrito + "    AA AA        UU         UU    LL               AA AA           11  11");
-        System.out.println(azul + negrito + "   AA   AA       UU         UU    LL              AA   AA         11   11");
-        System.out.println(azul + negrito + "  AAAAAAAAA      UU         UU    LL             AAAAAAAAA             11");
-        System.out.println(azul + negrito + " AA       AA      UU       UU     LL            AA       AA            11");
-        System.out.println(azul + negrito + "AA         AA      UUUUUUUUU      LLLLLLLLLL   AA         AA           11");
+        System.out.println();
+        System.out.println(azul + negrito + "     AAA     UU       UU LL          AAA        11111");
+        System.out.println(azul + negrito + "    AA AA    UU       UU LL         AA AA      11  11");
+        System.out.println(azul + negrito + "   AA   AA   UU       UU LL        AA   AA    11   11");
+        System.out.println(azul + negrito + "  AAAAAAAAA  UU       UU LL       AAAAAAAAA        11");
+        System.out.println(azul + negrito + " AA       AA  UUUUUUUUU  LLlllll AA       AA       11");
         System.out.println();
     }
 }

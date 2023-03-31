@@ -22,7 +22,7 @@ Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resp
 
 
 #### **Resultado final da primeira aula após o tratamento dos dados:**
-![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula-1.png)
+![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula1.png)
 
 ## Aula 2 ✔️
 ### Gerando figurinhas para Whatsapp com Java
