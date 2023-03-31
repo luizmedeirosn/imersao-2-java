@@ -3,6 +3,8 @@
 
 # Sobre o Projeto:
 Repositório para estudo construído com base no treinamento intensivo em desenvolvimento back-end com a linguagem Java proposto pela plataforma [**alura**](https://www.alura.com.br/).
+
+**OBS:** O sistema está em processo de refatoração.
 ## Tópicos abordados:
 - **Estruturas de controle;**
 - **Estruturas de dados;**
