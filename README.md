@@ -1,10 +1,9 @@
-# Projeto de Imersão Java
+# Projeto de Imersão em Java
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/lumedeirosn/imersao-2-java-alura/blob/main/LICENSE)  
 
 # Sobre o Projeto:
 Repositório para estudo construído com base no treinamento intensivo em desenvolvimento back-end com a linguagem Java proposto pela plataforma [**alura**](https://www.alura.com.br/).
 
-**OBS:** O sistema está em processo de refatoração.
 ## Tópicos abordados:
 - **Estruturas de controle;**
 - **Estruturas de dados;**
@@ -12,7 +11,7 @@ Repositório para estudo construído com base no treinamento intensivo em desenv
 - **Expressões regulares;**
 - **Orientação a Objetos;**
 - **Persolanização do terminal utilizando Java;**
-- **Protocolo HTTP;**;
+- **Protocolo HTTP;**
 - **Java Web com a biblioteca Java Net;**
 - **Edição de imagens utilizando Java AWT e Swing.**
 
