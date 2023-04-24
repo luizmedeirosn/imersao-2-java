@@ -36,7 +36,7 @@ Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável 
 ## Aula 3 🚀
 ### Refatorando o Software com Orientação a Objetos
 
-Durante este estágio do projeto, foram empregadas práticas de refatoração de código e orientação a objetos, com a utilização injeção de dependências e aprimoramento de coesão das classes. Também foram criadas camadas de serviço com clientes HTTP extratores de dados e geradores, bem como pacotes de parser e entidades.
+Durante este estágio do projeto, foram empregadas práticas de refatoração de código e orientação a objetos, com a utilização injeção de dependências e aprimoramento de coesão das classes. Também foram criadas camadas de serviço com clientes HTTP, extratores de dados e geradores, bem como os pacotes de parser e entidades.
 
 #### **Conclusão da terceira aula após a edição de imagens da API da NASA:**
 ![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula3.png)
