@@ -20,7 +20,7 @@ Repositório para estudo construído com base no treinamento intensivo em desenv
 
 Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resposta é resgatado um arquivo Json, que é utilizado para extrair informações relevantes.
 
-#### **Resultado final da primeira aula após o tratamento dos dados:**
+#### **Resultado final do desafio da primeira aula após o tratamento dos dados:**
 ![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula1.png)
 
 
@@ -29,8 +29,8 @@ Nessa primeira dinâmica são requisitados dados a uma API de filmes e como resp
 
 Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável pala criação de stickers aproveitando-se de comportamentos polimórficos da classe File e InputSream, além de recursos da bilioteca Java AWT.
 
-#### **Produto da segunda aula após a edição dos stickers:**
-![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula-2.png)
+#### **Produto do desafio da segunda aula após a edição dos stickers:**
+![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/desafio-aula2.png)
 
 
 ## Aula 3 🚀
@@ -38,7 +38,7 @@ Nessa etapa do projeto, foi elaborada a classe FrabricaDeStickers, responsável 
 
 Durante este estágio do projeto, foram empregadas práticas de refatoração de código e orientação a objetos, com a utilização injeção de dependências e aprimoramento de coesão das classes. Também foram criadas camadas de serviço com clientes HTTP, extratores de dados e geradores, bem como os pacotes de parser e entidades.
 
-#### **Conclusão da terceira aula após a edição de imagens da API da NASA:**
+#### **Conclusão do desafio da terceira aula após a edição de imagens da API da NASA:**
 ![](https://raw.githubusercontent.com/lumedeirosn/assets-imersao-2-java-alura/main/resultado-aula3.png)
 
 
